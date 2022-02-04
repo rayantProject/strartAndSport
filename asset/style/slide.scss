@@ -1,0 +1,12 @@
+.stacking-slide 
+{
+    width: 100%;
+    position: sticky;
+    top: 0;
+  
+//   Not needed if 100vh
+//   &:nth-last-child(1) 
+//  {
+//      height: 100vh;
+//   }
+}
